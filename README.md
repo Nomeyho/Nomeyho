@@ -4,28 +4,19 @@
 <p align="center">Software Engineer</p>
 
 <p align="center">
-  <a href="https://twitter.com/Nomeyho">Twitter</a> •
   <a href="https://www.linkedin.com/in/stephane-vanberg/">Linkedin</a> •
+  <a href="https://twitter.com/Nomeyho">Twitter</a> •
   <a href="https://medium.com/@vanbergstephane">Medium</a>
 </p>
 
 **💻 Skills**
 
-- Programming language:
-<img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white">
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
-<img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
-<img alt="Dart" src="https://img.shields.io/badge/Dart-15A6C4.svg?logo=dart&logoColor=white">
+- 👨‍💻 Java, JavaScript, Dart
+- ⚡ SpringBoot, React, VueJS, Flutter, Web3.js
+- ☁️ AWS λ, DynamoDB, Cognito, S3, SNS
+- 🛠️ Git, Gitlab CI/CD, Docker
+- 🎯 SQL, MongoDB, REST, GraphQL
 
-- Frameworks
-
-- Cloud
-
-- Database
-<img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
-<img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
-<img alt="DynamoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
 -------
 
 **📝 Latest Blog Posts**
@@ -33,6 +24,7 @@
 - [Gzip + AWS Lambda + HTTP API Gateway](https://medium.com/@vanbergstephane/gzip-aws-lambda-http-api-gateway-6b9c6431c564)
 
 -------
+
 **🏆 Certifications**
 
 - ARHS Developper Awards (2021)
@@ -41,6 +33,6 @@
 
 -------
 
-Last updated 24/03/2022
+Last updated 25/03/2022
 
 
