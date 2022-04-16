@@ -17,7 +17,7 @@
 
 <h2>🏆 Certifications</h2>
 
-- ARHS Developper Awards (2021)
+- ARHS Software Development Awards (2021)
 - [Flutter Clock Challenge (2020)](https://www.credential.net/983c3cf3-1fef-4e7f-bb23-e98d9ba22585?key=a0bc7f75ae239aa09f724118b34e48cbb30e08fdd4e39333cb815e906b154292)
 - AWS Certified Developer - Associate (2019)
 
