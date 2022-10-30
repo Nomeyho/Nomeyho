@@ -6,7 +6,7 @@
 <h2>💻 Skills</h2>
 
 - 👨‍💻 Java, JavaScript, Dart
-- ⚡ SpringBoot, React, VueJS, Flutter, Web3.js
+- ⚡ SpringBoot, React, VueJS, Flutter, Web3.js, Node.js
 - ☁️ AWS λ, DynamoDB, Cognito, S3, SNS
 - 🛠️ Git, Gitlab CI/CD, Docker
 - 🎯 SQL, MongoDB, REST, GraphQL
